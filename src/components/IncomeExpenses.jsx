@@ -15,6 +15,7 @@ export function IncomeExpenses() {
     -1
   ).toFixed(2);
 
+  //Devuelve el componente con los valores de ingresos y egresos
   return (
     <>
       <div className="flex justify-between my-2">
